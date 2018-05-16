@@ -1,5 +1,5 @@
 
-## Nanorep API Documentation
+## Bold360 API Documentation
 
 
 ![Image](./API%20Doumentation.png)
